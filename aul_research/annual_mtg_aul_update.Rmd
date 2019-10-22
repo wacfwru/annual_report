@@ -63,8 +63,8 @@ class: center, middle
 
 ### Caitlin Magel (Ph.D. student, Oregon State University)
 ### Sally Hacker (co-PI, Oregon State University) 
-### David Lewis (co-PI, Oregon State University)
 ### Eric Buhle (BioMark, Inc)
+### David Lewis (co-PI, Oregon State University)
 
 ---
 
@@ -85,64 +85,63 @@ class: center, middle
 
 ---
 
-class: center, middle, inverse
-
-# RESEARCH PLANNING
-
----
-
-class: black-back
-background-image: url(figs/skagit.png)
-background-position: 50% 50%
-background-size: cover
-
-# Skagit River salmon and steelhead
-
----
-
-# Characterize uncertainty between steelhead
-
-## .blue-text[1) spawners and offspring]
-
-## .green-text[2) productivity and environmental conditions]
-
----
-
-# Skagit River steelhead
-
-.right.blue-text[
-## Escapement, harvest & age data from 1978-2018
+.blue-text[
+## Evaluation of status and trends for Skagit River Chinook salmon and steelhead
 ]
 
-.right.green-text[
-## Effects of streamflows & hatchery releases
+***
+
+### Eric Beamer (co-PI, Skagit River System Cooperative)
+### Mike LeMoine (co-PI, Skagit River System Cooperative)
+### Casey Ruff (co-PI, Skagit River System Cooperative)
+
+---
+
+.blue-text[
+## Evaluation of status and trends for Skagit River Chinook salmon and steelhead
 ]
+
+***
+
+### .green-text[Funders:] Bureau of Indian Affairs, University of Washington
+
+### .green-text[Status:] In development, expected to begin in June 2020
+
+* ### Develop time series models to evaluate current status and trends in population censuses of Chinook salmon and steelhead
+
+* ### Revise methods for estimating escapement from index stocks based on coded wire tagging of hatchery fish and test fisheries
 
 
 ---
 
-# Marine & freshwater food-webs
-
-.blue-text.right[
-## How do species interactions change over time?
+.blue-text[
+## Floodplains by Design
 ]
+
+***
+
+### Bob Carey (The Nature Conservancy)
+### Jesse Israel (The Nature Conservancy)
+### Lisa Nelson (WA Department of Ecology)
+### Sara Breslow (UW Earthlab)
+### Casey Ruff (co-PI, Skagit River System Cooperative)
 
 ---
 
-class: frimg
-background-image: url(figs/san_nic.png)
-background-position: 50% 70%
-background-size: 90%
-
-# Kelp forest food webs
-
----
-
-# Ecological portfolios
-
-.blue-text.right[
-## Maximize info from monitoring while minimizing cost
+.blue-text[
+## Floodplains by Design
 ]
+
+***
+
+### .green-text[Funders:] The Nature Conservancy, WA Department of Ecology
+
+### .green-text[Status:] In development, expected to begin in Spring 2020
+
+* ### Public-private partnership focused on integrating efforts to reduce flood risks and restore habitat across Washington State
+
+* ### Improve resiliency of floodplains for the protection of human communities and ecosystem health while supporting agriculture, clean water, recreation, etc
+
 
 ---
 
