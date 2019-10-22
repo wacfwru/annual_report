@@ -1,0 +1,123 @@
+---
+output:
+  xaringan::moon_reader:
+    chakra: libs/remark-latest.min.js
+    css: "my-theme.css"
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+---
+
+```{r setup, include=FALSE, message=FALSE}
+options(htmltools.dir.version = FALSE, servr.daemon = TRUE)
+```
+
+class: center, middle
+
+# RESEARCH UPDATE SUMMARY
+## Assistant Unit Leader
+
+.purple-text.center[
+.futnote[`r icon::fa("envelope")` scheuerl@uw.edu]
+]
+
+.blue-text.center[
+.citation[`r icon::fa("twitter")` @mark_scheuerell]
+]
+
+---
+
+.blue-text[
+## Improving preseason forecasts for U.S. coho salmon management units by accounting for spatially structured temporal variation in age-at-maturity
+]
+
+***
+
+### Lukas DeFilippo (Ph.D. student, University of Washington)
+### Daniel Schindler (co-PI, University of Washington)
+### Neala Kendall (co-PI, Washington Department of Fish and Wildlife)
+### Thomas Buehrens (Washington Department of Fish and Wildlife)
+
+---
+
+.blue-text[
+## Improving preseason forecasts for U.S. coho salmon management units by accounting for spatially structured temporal variation in age-at-maturity
+]
+
+***
+
+### .green-text[Funder:] Southern Boundary Restoration and Enhancement Fund
+
+### .green-text[Status:] Ongoing, expected completion March 2020
+
+***
+
+### Develop a new class of forecast models for naturally spawning coho salmon in the Pacific Northwest that accounts for both environmental and demographic effects on the proportion of jacks within cohorts
+
+
+---
+
+class: center, middle, inverse
+
+# RESEARCH PLANNING
+
+---
+
+class: black-back
+background-image: url(figs/skagit.png)
+background-position: 50% 50%
+background-size: cover
+
+# Skagit River salmon and steelhead
+
+---
+
+# Characterize uncertainty between steelhead
+
+## .blue-text[1) spawners and offspring]
+
+## .green-text[2) productivity and environmental conditions]
+
+---
+
+# Skagit River steelhead
+
+.right.blue-text[
+## Escapement, harvest & age data from 1978-2018
+]
+
+.right.green-text[
+## Effects of streamflows & hatchery releases
+]
+
+
+---
+
+# Marine & freshwater food-webs
+
+.blue-text.right[
+## How do species interactions change over time?
+]
+
+---
+
+class: frimg
+background-image: url(figs/san_nic.png)
+background-position: 50% 70%
+background-size: 90%
+
+# Kelp forest food webs
+
+---
+
+# Ecological portfolios
+
+.blue-text.right[
+## Maximize info from monitoring while minimizing cost
+]
+
+---
+
+class: black-back
+
