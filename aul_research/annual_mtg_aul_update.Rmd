@@ -51,9 +51,36 @@ class: center, middle
 
 ### .green-text[Status:] Ongoing, expected completion March 2020
 
+* ### Develop forecast models for naturally spawning coho salmon that accounts for both environmental and demographic effects on the proportion of jacks within cohorts
+
+---
+
+.blue-text[
+## Non-market economic benefits of restoration of Oregon Coast coho salmon
+]
+
 ***
 
-### Develop a new class of forecast models for naturally spawning coho salmon in the Pacific Northwest that accounts for both environmental and demographic effects on the proportion of jacks within cohorts
+### Caitlin Magel (Ph.D. student, Oregon State University)
+### Sally Hacker (co-PI, Oregon State University) 
+### David Lewis (co-PI, Oregon State University)
+### Eric Buhle (BioMark, Inc)
+
+---
+
+.blue-text[
+## Non-market economic benefits of restoration of Oregon Coast coho salmon
+]
+
+***
+
+### .green-text[Funders:] National Oceanic and Atmospheric Administration, National Science Foundation
+
+### .green-text[Status:] Ongoing, expected completion June 2020
+
+* ### Develop an integrated population model that translates habitat investments to returning coho spawners
+
+* ### Link survey-based valuation estimates to potential changes in the number of coho spawners arising from restoration actions
 
 
 ---
