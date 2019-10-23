@@ -17,6 +17,7 @@ class: center, middle
 
 # RESEARCH UPDATE SUMMARY
 ## Assistant Unit Leader
+### Cooperator's Meeting, 23 Oct 2019
 
 .purple-text.center[
 .futnote[`r icon::fa("envelope")` scheuerl@uw.edu]
@@ -123,8 +124,7 @@ class: center, middle
 ### Bob Carey (The Nature Conservancy)
 ### Jesse Israel (The Nature Conservancy)
 ### Lisa Nelson (WA Department of Ecology)
-### Sara Breslow (UW Earthlab)
-### Casey Ruff (co-PI, Skagit River System Cooperative)
+### Sara Breslow (UW EarthLab)
 
 ---
 
