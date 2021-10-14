@@ -15,19 +15,12 @@ options(htmltools.dir.version = FALSE, servr.daemon = TRUE)
 
 class: center, middle
 
-# RESEARCH UPDATE SUMMARY
+# RESEARCH UPDATE
 ## Assistant Unit Leader - Fisheries
 ### Washington Cooperative Fish and Wildlife Research Unit
 ### Cooperator's Meeting
 ### 20 Oct 2021
 
-.purple-text.center[
-.futnote[`r icon::fa("envelope")` scheuerl@uw.edu]
-]
-
-.blue-text.center[
-.citation[`r icon::fa("twitter")` @mark_scheuerell]
-]
 
 ---
 
@@ -78,7 +71,7 @@ class: center, middle
 ---
 
 .blue-text[
-## A comparison of existing and spatio-temporal methods to apportion coastwide catch limits for subregional management in the Gulf of Alaska
+## Five-year status review of yelloweye and bocaccio rockfish in Puget Sound
 ]
 
 ***
@@ -87,9 +80,98 @@ class: center, middle
 
 ### .green-text[Status:] Completed in Sept 2021
 
-* ### Reconstruct commercial and recreational catch histories from gray literature
+* ### Reconstruct commercial and recreational catch histories from sparse scientific surveys and gray literature
 
 * ###	Estimate population status based upon assessment model for data-poor stocks
+
+
+---
+
+.blue-text[
+## Habitat function of shellfish aquaculture ecosystems: developing new technology to understand species use of nearshore habitats
+]
+
+***
+
+### Karl Veggerby (MS student)
+### Beth Sanderson, Peter Kiffney (co-PIs, NOAA Fisheries)
+
+---
+
+.blue-text[
+## Habitat function of shellfish aquaculture ecosystems: developing new technology to understand species use of nearshore habitats
+]
+
+***
+
+### .green-text[Funders:] NOAA Fisheries
+
+### .green-text[Status:] Expected completion in Sept 2023
+
+* ### Quantify occurrences of foraging behavior, by species, in shellfish aquaculture sites using underwater video
+
+* ###	Characterize trophic ecology of fishes and invertebrates inside and outside of aquaculture sites
+
+
+---
+
+class: center, middle
+
+# NEW PROJECTS
+
+---
+
+.blue-text[
+## Advancing sustainable shellfish aquaculture through machine learning and automated data collection on fish communities
+]
+
+***
+
+### Dara Farrell (postdoc)
+### Beth Sanderson, Bridgett Ferris (co-PIs, NOAA Fisheries)
+
+---
+
+.blue-text[
+## Advancing sustainable shellfish aquaculture through machine learning and automated data collection on fish communities
+]
+
+***
+
+### .green-text[Funders:] NOAA Fisheries
+
+### .green-text[Status:] Expected completion in Sept 2023
+
+* ### Transition an existing machine learning model for ID'ing fish species from video to the NOAA-supported VIAME platform
+
+* ###	Test, document, and operationalize the model for widespread use in aquaculture sites
+
+
+---
+
+.blue-text[
+## Evaluating the relative effects of top-down and bottom-up factors on declines in Lake Sammamish kokanee salmon
+]
+
+***
+
+### Nicole Doran (MS student)
+### Brad Thompson (USFWS)
+### WDFW, King County, Snoqulamie Tribe
+
+---
+
+.blue-text[
+## Evaluating the relative effects of top-down and bottom-up factors on declines in Lake Sammamish kokanee salmon
+]
+
+***
+
+### .green-text[Funders:] USFWS
+
+### .green-text[Status:] Expected completion in March 2024
+
+* ### Evaluate the relative influences of top-down and bottom-up process on the population dynamics of at-risk kokanee salmon
 
 
 ---
