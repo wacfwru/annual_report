@@ -1,0 +1,98 @@
+---
+output:
+  xaringan::moon_reader:
+    chakra: libs/remark-latest.min.js
+    css: "my-theme.css"
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+---
+
+```{r setup, include=FALSE, message=FALSE}
+options(htmltools.dir.version = FALSE, servr.daemon = TRUE)
+```
+
+class: center, middle
+
+# RESEARCH UPDATE SUMMARY
+## Assistant Unit Leader - Fisheries
+### Washington Cooperative Fish and Wildlife Research Unit
+### Cooperator's Meeting
+### 20 Oct 2021
+
+.purple-text.center[
+.futnote[`r icon::fa("envelope")` scheuerl@uw.edu]
+]
+
+.blue-text.center[
+.citation[`r icon::fa("twitter")` @mark_scheuerell]
+]
+
+---
+
+class: center, middle
+
+# ONGOING PROJECTS
+
+---
+
+.blue-text[
+## A comparison of existing and spatio-temporal methods to apportion coastwide catch limits for subregional management in the Gulf of Alaska
+]
+
+***
+
+### Kelly Mistry (MS student)
+### Cecilia O'Leary (co-PI, NOAA Fisheries)
+
+---
+
+.blue-text[
+## A comparison of existing and spatio-temporal methods to apportion coastwide catch limits for subregional management in the Gulf of Alaska
+]
+
+***
+
+### .green-text[Funders:] NOAA Fisheries
+
+### .green-text[Status:] Ongoing; expected completion in April 2022
+
+* ### Develop the alternative approaches for subregional groundfish harvest apportionment for Gulf of Alaska stocks
+
+* ###	Compare the performance of conventional and alternative approaches to inform fisheries management councils
+
+
+---
+
+.blue-text[
+## Five-year status review of yelloweye and bocaccio rockfish in Puget Sound
+]
+
+***
+
+### Markus Min (MS student)
+### Dayv Lowry, Jason Cope, Kelly Andrews (NOAA Fisheries)
+### Bob Pacunski, Andrea Hennings (WDFW)
+
+---
+
+.blue-text[
+## A comparison of existing and spatio-temporal methods to apportion coastwide catch limits for subregional management in the Gulf of Alaska
+]
+
+***
+
+### .green-text[Funders:] NOAA Fisheries
+
+### .green-text[Status:] Completed in Sept 2021
+
+* ### Reconstruct commercial and recreational catch histories from gray literature
+
+* ###	Estimate population status based upon assessment model for data-poor stocks
+
+
+---
+
+class: black-back
+
